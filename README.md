@@ -10,8 +10,9 @@ Partagez ici une expérience unique, entre bonne humeur et connaissances techniq
 **[Handtrainer.TV](https://handtrainer.tv)** is a collaborative project for coaches, but also for players, volunteers, managers and all handball enthusiasts.
 Share a unique experience with good mood and technical knowledge.
 
-![](https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg "handtrainer.tv")
 
 <img src="https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg" 
      width="200"
-     alt="handtrainer.tv"> 
+     alt="handtrainer.tv"
+     title="handtrainer.tv"/> 
+
