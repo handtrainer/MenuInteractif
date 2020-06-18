@@ -8,7 +8,10 @@ Partagez ici une expérience unique, entre bonne humeur et connaissances techniq
 Le menu interactif est un menu basculant qui permet à l'utilisateur de choisir une valeur dans une liste prédéfinie
 
 ### Liens utiles
+https://handtrainer.tv/
+
 adresse mail = handtrainertv@gmail.com
+
 Télégramme groupe = https://t.me/HandTrainer
 
 ## Handtrainer tv [EN]
@@ -18,7 +21,13 @@ Share a unique experience with good mood and technical knowledge.
 Drop-down menu is a toggleable menu that allows the user to choose one value from a predefined list
 Use the following file as a template to create a new HTML document using a proper Doctype svg and css files
 
+### Contact
+https://handtrainer.tv/
 
 e-mail = handtrainertv@gmail.com
 
 Telegram group = https://t.me/HandTrainer 
+
+
+
+!https://handtrainer.tv/wp-content/uploads/2020/05/ANIMATION.svg
