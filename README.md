@@ -30,4 +30,4 @@ e-mail = handtrainertv@gmail.com
 Telegram group = https://t.me/HandTrainer 
 
 
-![](https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg)
+![https://handtrainer.tv/](https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg)
