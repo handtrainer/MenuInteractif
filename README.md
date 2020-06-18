@@ -11,3 +11,7 @@ Partagez ici une expérience unique, entre bonne humeur et connaissances techniq
 Share a unique experience with good mood and technical knowledge.
 
 ![](https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg "handtrainer.tv")
+
+<img src="https://handtrainer.tv/wp-content/uploads/2020/03/logo2.svg" 
+     width="200"
+     alt="handtrainer.tv"> 
